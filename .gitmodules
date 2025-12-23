@@ -1,0 +1,6 @@
+[submodule "Lora-Mesh"]
+	path = Lora-Mesh
+	url = https://github.com/oscarjibou/Lora-Mesh.git
+[submodule "MQTT-Raspberry"]
+	path = MQTT-Raspberry
+	url = https://github.com/oscarjibou/MQTT-Raspberry.git
