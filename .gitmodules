@@ -4,3 +4,6 @@
 [submodule "MQTT-Raspberry"]
 	path = MQTT-Raspberry
 	url = https://github.com/oscarjibou/MQTT-Raspberry.git
+[submodule "Receiver-Lora_RaspberryPi"]
+	path = Receiver-Lora_RaspberryPi
+	url = https://github.com/oscarjibou/Receiver-Lora-RaspberryPi.git
